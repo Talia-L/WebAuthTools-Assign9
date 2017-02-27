@@ -1,0 +1,70 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+
+</head>
+<body>
+<div class="container">
+
+<h1 id="Wells" class="page-header">
+    <h1>Making an Omelette! (My Way)...</h1>
+    <h4>by Talia LeRay</h4></h1>
+
+<p class="lead"></p>
+<p>I make this omelette when I am at my house in Brooklyn, typically on a Saturday morning.</p>
+
+<h3>Ingredients</h3>
+<div class="panel panel-success">
+  <div class="panel-body">
+        Here are the ingredients I use to make an omelette:
+            <ul>
+                <li class="odd">2 eggs</li>
+                <li class="even">Lawry's seasoning salt</li> 
+                <li class="odd">Fresh garlic pegs</li>
+                <li class="even">Spinach</li> 
+                <li class="odd">Tomato</li>
+                <li class="even">Bacon or Sausage</li>
+                <li class="odd">Pepppers (green, red, yellow)</li>
+                <li class="even">Onions</li>
+                <li class="odd">Avacado (on the side)</li>
+                <li class="even">4 cheese mix</li>
+            </ul>
+  </div>
+    
+</div>
+<div class="panel panel-info">
+  <div class="panel-heading">Directions</div>
+  <div class="panel-body">
+    <ol>
+                <li class="odd">Crack both eggs in a bowl and mix it until scrambled.</li>
+                <br>
+                
+                <li class="even">Make a choice of the meat you want (sausage, bacon or both!) and allow the meat(s) to cook in a pan.</li>
+                <br>
+                
+                <li class="odd">Chop up the garlic, spinach, tomato, onion, peppers and the peppers while the meat is cooking. Check on the meat as you're chopping up the ingredients.</li>
+                <br>
+                
+                <li class="even">Add the chopped ingredients and the cooked meat to the bowl with the scrambled eggs. Base the bottom of a pan and add the mix to the pan</li>
+                <br>
+                
+                <li class="odd">Allow the omelette to cook on one side for 4 minutes on a medium to low fire and turn over when done. Add cheese (if you want) to the omlette and close it</li>
+                <br>
+                
+                <li class="even">ENJOY!</li>
+            </ol>
+  </div>
+</div>
+</body>
+</html> 
